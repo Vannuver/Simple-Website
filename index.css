@@ -1,0 +1,28 @@
+body {
+    background-color:black;
+    color:white;
+}
+
+.navegador li a {
+    text-decoration:none;
+    color:white;
+}
+.navegador li {
+    display:inline;
+    padding:1.5%;
+}
+
+.navegador {
+    display:flex;
+    justify-content:end;
+    background:green;
+}
+
+.titulo {
+    margin-top:2%;
+    margin-left:2%;
+}
+
+.par1 {
+    margin-left:2%;
+}
