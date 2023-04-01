@@ -26,3 +26,21 @@ body {
 .par1 {
     margin-left:2%;
 }
+
+.par2 {
+    margin-left:2%;
+}
+
+.kindle {
+    float:right;
+    width:10%;
+    height:100px;
+}
+
+.exp {
+    margin-left:2%;
+}
+
+.experiencia ul li {
+    color:red;
+}
